@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/reception.json#from-theater-left"
+                 "value":"\/@\/valtech-mobility\/chariotsofbits\/reception#from-theater-left"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/reception.json#from-theater-right"
+                 "value":"\/@\/valtech-mobility\/chariotsofbits\/reception#from-theater-right"
                 }],
          "type":"tilelayer",
          "visible":true,

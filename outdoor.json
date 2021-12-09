@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/reception.json#from-outdoor"
+                 "value":"\/@\/valtech-mobility\/chariotsofbits\/reception#from-outdoor"
                 }],
          "type":"tilelayer",
          "visible":true,

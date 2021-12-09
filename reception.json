@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/outdoor.json#from-reception"
+                 "value":"\/@\/valtech-mobility\/chariotsofbits\/outdoor#from-reception"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/meetings.json#from-reception"
+                 "value":"\/@\/valtech-mobility\/chariotsofbits\/meetings#from-reception"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/theater.json#from-reception-left"
+                 "value":"\/@\/valtech-mobility\/chariotsofbits\/theaterfrom-reception-left"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/theater.json#from-reception-right"
+                 "value":"\/@\/valtech-mobility\/chariotsofbits\/theater#from-reception-right"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/bar.json#from-reception"
+                 "value":"\/@\/valtech-mobility\/chariotsofbits\/bar#from-reception"
                 }],
          "type":"tilelayer",
          "visible":true,
