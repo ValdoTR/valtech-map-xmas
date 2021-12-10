@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/meetings.json#from-bar"
+                 "value":"\/@\/valtech-mobility\/chariotsofbits\/reception#from-bar"
                 }],
          "type":"tilelayer",
          "visible":true,
