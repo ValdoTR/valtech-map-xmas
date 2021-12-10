@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/valtech-mobility\/chariotsofbits\/theaterfrom-reception-left"
+                 "value":"\/@\/valtech-mobility\/chariotsofbits\/theater#from-reception-left"
                 }],
          "type":"tilelayer",
          "visible":true,
