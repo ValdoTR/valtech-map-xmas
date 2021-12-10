@@ -306,7 +306,17 @@
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Press SPACE to join the meeting"
-                }],
+                },
+                {
+                     "name":"jitsiRoomAdminTag",
+                     "type":"string",
+                     "value":"expert"
+                    }, 
+                    {
+                     "name":"jitsiUrl",
+                     "type":"string",
+                     "value":"meet.jit.si"
+                    }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -334,7 +344,17 @@
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Press SPACE to join the meeting"
-                }],
+                },
+                {
+                     "name":"jitsiRoomAdminTag",
+                     "type":"string",
+                     "value":"expert"
+                    }, 
+                    {
+                     "name":"jitsiUrl",
+                     "type":"string",
+                     "value":"meet.jit.si"
+                    }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -362,7 +382,17 @@
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Press SPACE to join the meeting"
-                }],
+                },
+                {
+                     "name":"jitsiRoomAdminTag",
+                     "type":"string",
+                     "value":"expert"
+                    }, 
+                    {
+                     "name":"jitsiUrl",
+                     "type":"string",
+                     "value":"meet.jit.si"
+                    }],
          "type":"tilelayer",
          "visible":true,
          "width":70,

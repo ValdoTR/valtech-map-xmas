@@ -128,7 +128,27 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ValtechBarMeetingZone"
-                }],
+                },
+                {
+                     "name":"jitsiTrigger",
+                     "type":"string",
+                     "value":"onaction"
+                    }, 
+                    {
+                     "name":"jitsiTriggerMessage",
+                     "type":"string",
+                     "value":"Press SPACE to join the bar!"
+                    },
+                {
+                     "name":"jitsiRoomAdminTag",
+                     "type":"string",
+                     "value":"expert"
+                    }, 
+                    {
+                     "name":"jitsiUrl",
+                     "type":"string",
+                     "value":"meet.jit.si"
+                    }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
